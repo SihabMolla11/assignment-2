@@ -329,11 +329,12 @@ font-size:16px;
 }/*project section style end*/
 
 footer{
-    width:80%;
+    width:75%;
     background-color: #FFF4E7;
     margin:auto;
     border-radius: 5px;
     margin-top: 130px;
+    margin-bottom: 130px;
 }
 footer p{
     padding:38px 0;
